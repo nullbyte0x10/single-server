@@ -1,0 +1,15 @@
+Single server queueing system
+
+Mean inter_arrival time: null minutes
+
+Mean service time: null minutes
+
+Number of customers: null
+
+Average delay in queue: NaN minutes
+
+Average number in queue: NaN
+
+Server utilization: NaN
+
+Time simulation ended: 0.000 minutes
