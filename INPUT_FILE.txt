@@ -1,0 +1,1 @@
+mean_interarrival 1.000 mean_service 0.5 num_delays_required 1000

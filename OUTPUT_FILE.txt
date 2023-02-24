@@ -1,15 +1,15 @@
 Single server queueing system
 
-Mean inter_arrival time: null minutes
+Mean inter_arrival time: 1.000 minutes
 
-Mean service time: null minutes
+Mean service time: 0.5 minutes
 
-Number of customers: null
+Number of customers: 1000
 
-Average delay in queue: NaN minutes
+Average delay in queue: 0.396 minutes
 
-Average number in queue: NaN
+Average number in queue: 0.385
 
-Server utilization: NaN
+Server utilization: 0.500
 
-Time simulation ended: 0.000 minutes
+Time simulation ended: 1,028.098 minutes
